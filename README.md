@@ -1,2 +1,2 @@
-# practice-js
-# JS-problemSolving
+
+# this is my solving problems on js 
